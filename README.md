@@ -1,4 +1,4 @@
-# proxyvator-git [![Build Status](https://travis-ci.org/IvanGaravito/proxyvator-git.png?branch=master)](https://travis-ci.org/IvanGaravito/proxyvator-git)
+# proxyvator-git [![Build Status](https://travis-ci.org/IvanGaravito/proxyvator-git.svg?branch=master)](https://travis-ci.org/IvanGaravito/proxyvator-git)
 
 A proxyvator plugin for git support
 
