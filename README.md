@@ -1,4 +1,8 @@
-# proxyvator-git [![Build Status](https://travis-ci.org/IvanGaravito/proxyvator-git.svg?branch=master)](https://travis-ci.org/IvanGaravito/proxyvator-git)
+# proxyvator-git
+
+[![Build Status](https://travis-ci.org/IvanGaravito/proxyvator-git.svg?branch=master)](https://travis-ci.org/IvanGaravito/proxyvator-git)
+[![NPM pkg](https://img.shields.io/npm/v/proxyvator-git.svg)](https://www.npmjs.com/package/proxyvator)
+[![NPM dm](https://img.shields.io/npm/dm/proxyvator-git.svg)](https://www.npmjs.com/package/proxyvator)
 
 A proxyvator plugin for git support
 
